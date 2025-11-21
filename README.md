@@ -49,7 +49,6 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 ### Domain Expertise
 ![LiDAR](https://img.shields.io/badge/LiDAR-FF6B6B?style=for-the-badge&logo=laser&logoColor=white)
 ![ADAS](https://img.shields.io/badge/ADAS-4A90E2?style=for-the-badge&logo=auto&logoColor=white)
-![Autonomous Driving](https://img.shields.io/badge/Autonomous_Driving-00D9FF?style=for-the-badge&logo=tesla&logoColor=white)
 
 ---
 
