@@ -63,7 +63,7 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProbeYuki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-> ⚠️ **重要提示**: 当前统计仅包含公开仓库。要统计Cepton和其他私有仓库的贡献,需要设置Personal Access Token。
+> 💡 **Note**: Public repository statistics shown above. My professional work includes extensive C/C++ embedded firmware development for LiDAR systems at Cepton.
 
 ---
 
