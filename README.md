@@ -24,15 +24,16 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProbeYuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProbeYuki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-![ProbeYuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProbeYuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProbeYuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&count_private=true&include_all_commits=true" alt="Top Languages" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProbeYuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProbeYuki&theme=tokyonight&hide_border=true)
-
-</div>
+> 📝 **Note**: Language statistics include all contributions from public repositories. For private repository statistics (including work at Cepton), GitHub Actions workflow updates are available.
 
 ---
 
