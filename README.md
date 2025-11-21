@@ -54,14 +54,16 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 
 ## 📊 GitHub Statistics & Language Usage
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ProbeYuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProbeYuki&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ProbeYuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProbeYuki&layout=donut&theme=tokyonight&hide_border=true&langs_count=8&count_private=true&include_all_commits=true" alt="Top Languages" />
+</div>
 
-<p align="center">
+<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=ProbeYuki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</div>
+
+> ⚠️ **重要提示**: 当前统计仅包含公开仓库。要统计Cepton和其他私有仓库的贡献,需要设置Personal Access Token。
 
 ---
 
