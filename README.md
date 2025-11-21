@@ -33,7 +33,6 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 
 - [**ProbeYuki.github.io**](https://probeyuki.github.io/) - Interactive LiDAR & ADAS Demo
 - [**PROBES**](https://github.com/ProbeYuki/PROBES) - Probing something interesting!
-- [**rust-course**](https://github.com/ProbeYuki/rust-course) - Learning Rust programming
 
 ---
 
