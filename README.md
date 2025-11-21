@@ -22,6 +22,20 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![ProbeYuki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProbeYuki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ProbeYuki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ProbeYuki&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 📫 Connect with Me
 
 - 📧 Email: [yangjinweiprobe@outlook.com](mailto:yangjinweiprobe@outlook.com)
