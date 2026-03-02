@@ -62,7 +62,6 @@ I'm an **Embedded Firmware Engineer** passionate about **autonomous driving tech
 ### 🌟 Featured Projects
 
 - [**ProbeYuki.github.io**](https://probeyuki.github.io/) - Interactive LiDAR & ADAS Demo
-- [**PROBES**](https://github.com/ProbeYuki/PROBES) - Probing something interesting!
 
 ---
 
